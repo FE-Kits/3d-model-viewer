@@ -37,7 +37,7 @@
     "canvas": "^2.5.0",
     "lodash": "^4.17.13",
     "request": "^2.88.0",
-    "three": "^0.90.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "eslint": "^6.0.1"
